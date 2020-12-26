@@ -1,0 +1,59 @@
+.scroller-2TZvBN {
+    background-color: var(--dark8);
+}
+
+.item-2hkk8m {
+    background-color: var(--color);
+}
+
+.numberBadge-2s8kKX {
+    background-color: rgba(13, 13, 13, 0) !important;
+    color: rgba(13, 13, 13, 0);
+}
+
+.icon-27yU2q {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 auto;
+    flex: 0 0 auto;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.guildSeparator-3s64Iy {
+    background-color: var(--white10);
+}
+
+.circleIconButton-jET_ig {
+    color: var(--color);
+    background-color: var(--dark10);
+}
+
+.circleIconButton-jET_ig:hover {
+    color: white;
+    background-color: var(--color);
+}
+
+.childWrapper-anI2G9 {
+    background-color: var(--dark10);
+}
+
+.circleIconButton-jET_ig.selected-ugP_am, .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    background-color: var(--color);
+}
+
+.folderIconWrapper-226oVY {   
+    background-color: var(--white10)
+}
+
+.expandedFolderBackground-2sPsd- {
+    
+}

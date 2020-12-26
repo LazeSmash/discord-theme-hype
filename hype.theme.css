@@ -1,10 +1,46 @@
 /**
     * @name hype
     * @author LazeSmash
-    * @version 0.1
+    * @version 0.2
     * @description ...
     * @source https://github.com/LazeSmash/discord-theme-hype
     * @donate https://www.paypal.com/paypalme/lazesmash
     * @authorId 428750780846178304
     * @invite VUE7umDAUc
 */
+
+  
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+* {
+    font-family: "Segoe UI";
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+:root {
+    --color: rgb(231, 76, 60);
+
+    --dark10: rgba(13, 13, 13, 1);
+    --dark9: rgba(13, 13, 13, 0.9);
+    --dark8: rgba(13, 13, 13, 0.8);
+    --dark7: rgba(13, 13, 13, 0.7);
+    --dark6: rgba(13, 13, 13, 0.6);
+    --dark5: rgba(13, 13, 13, 0.5);
+    --dark4: rgba(13, 13, 13, 0.4);
+    --dark3: rgba(13, 13, 13, 0.3);
+    --dark2: rgba(13, 13, 13, 0.2);
+    --dark1: rgba(13, 13, 13, 0.1);
+
+    --white10: rgb(209, 209, 209, 1);
+    --white9: rgb(209, 209, 209, 0.9);
+    --white8: rgb(209, 209, 209, 0.8);
+    --white7: rgb(209, 209, 209, 0.7);
+    --white6: rgb(209, 209, 209, 0.6);
+    --white5: rgb(209, 209, 209, 0.5);
+    --white4: rgb(209, 209, 209, 0.4);
+    --white3: rgb(209, 209, 209, 0.3);
+    --white2: rgb(209, 209, 209, 0.2);
+    --white1: rgb(209, 209, 209, 0.1);
+}
+
+@import url("");
