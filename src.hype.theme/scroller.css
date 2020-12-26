@@ -68,5 +68,5 @@ svg {
 }
 
 element.style {
-    background: currentColor;
+    background: currentColor !important;
 }
