@@ -9,7 +9,8 @@
     * @invite VUE7umDAUc
 */
 
-@import url("https://lazesmash.github.io/discord-theme-hype/src.hype.theme/scroller.css");  
+/* @import url("https://lazesmash.github.io/discord-theme-hype/src.hype.theme/scroller.css");   */
+@import url("src.hype.theme/scroller.css");
 
 @import url("https://fonts.googleapis.com/css?family=Oswald");
 
