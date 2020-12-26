@@ -1,5 +1,5 @@
 .scroller-2TZvBN {
-    background-color: var(--dark8);
+    background-color: var(--dark10);
 }
 
 .item-2hkk8m {
@@ -29,12 +29,12 @@
 }
 
 .guildSeparator-3s64Iy {
-    background-color: var(--white10);
+    background-color: var(--color);
 }
 
 .circleIconButton-jET_ig {
     color: var(--color);
-    background-color: var(--dark10);
+    background-color: var(--white7);
 }
 
 .circleIconButton-jET_ig:hover {
@@ -43,7 +43,7 @@
 }
 
 .childWrapper-anI2G9 {
-    background-color: var(--dark10);
+    background-color: var(--white7);
 }
 
 .circleIconButton-jET_ig.selected-ugP_am, .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
@@ -64,5 +64,5 @@ svg {
 }
 
 .da-folderIconWrapper {
-    background-color: var(--dark10) !important;
+    background-color: var(--white7) !important;
 }
