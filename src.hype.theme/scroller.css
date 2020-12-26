@@ -51,9 +51,13 @@
 }
 
 .folderIconWrapper-226oVY {   
-    background-color: var(--white10)
+    background-color: var(--white7)
 }
 
 .expandedFolderBackground-2sPsd- {
-    background-color: var(--white8);
+    background-color: var(--white3);
+}
+
+svg {
+    color: var(--color);
 }
