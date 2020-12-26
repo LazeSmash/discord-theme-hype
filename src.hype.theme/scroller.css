@@ -63,6 +63,10 @@ svg {
     color: currentColor !important;
 }
 
-.folderIconWrapper-226oVY .da-folderIconWrapper {
+.folderIconWrapper-226oVY, .da-folderIconWrapper {
     background-color: var(--white7) !important;
+}
+
+element.style {
+    background: currentColor;
 }
