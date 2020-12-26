@@ -67,6 +67,6 @@ svg {
     background-color: var(--white7) !important;
 }
 
-element.style {
+element, style {
     background: currentColor !important;
 }
