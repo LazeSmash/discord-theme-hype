@@ -66,3 +66,7 @@ svg {
 .da-folderIconWrapper {
     background-color: var(--white7) !important;
 }
+
+.da-typeWindows {
+    background-color: var(--dark10);
+}
