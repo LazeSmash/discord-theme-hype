@@ -10,7 +10,6 @@
 */
 
 /* @import url("https://lazesmash.github.io/discord-theme-hype/src.hype.theme/scroller.css");   */
-@import url("src.hype.theme/scroller.css");
 
 @import url("https://fonts.googleapis.com/css?family=Oswald");
 
@@ -45,3 +44,6 @@
     --white2: rgb(209, 209, 209, 0.2);
     --white1: rgb(209, 209, 209, 0.1);
 }
+
+
+
